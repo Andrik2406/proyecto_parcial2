@@ -1,1 +1,2 @@
-proyecto_ing_soft_2_parial
+proyecto_ing_soft_2_parci
+al
