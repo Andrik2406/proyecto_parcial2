@@ -1,1 +1,1 @@
-# proyecto_parcial2
+proyecto_ing_soft_2_parial
